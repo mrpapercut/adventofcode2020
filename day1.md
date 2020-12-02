@@ -1,5 +1,6 @@
 # Advent of Code 2020 Day 1: Report Repair
 ## Description
+### Part 1
 After saving Christmas five years in a row, you've decided to take a vacation at a nice resort on a tropical island. Surely, Christmas will go on without you.
 
 The tropical island has its own currency and is entirely cash-only. The gold coins used there have a little picture of a starfish; the locals just call them stars. None of the currency exchanges seem to have heard of them, but somehow, you'll need to find fifty of these coins by the time you arrive so you can pay the deposit on your room.
@@ -25,7 +26,7 @@ In this list, the two entries that sum to 2020 are 1721 and 299. Multiplying the
 
 Of course, your expense report is much larger. Find the two entries that sum to 2020; what do you get if you multiply them together?
 
-### Part Two
+### Part 2
 The Elves in accounting are thankful for your help; one of them even offers you a starfish coin they had left over from a past vacation. They offer you a second one if you can find three numbers in your expense report that meet the same criteria.
 
 Using the above example again, the three entries that sum to 2020 are 979, 366, and 675. Multiplying them together produces the answer, 241861950.
@@ -57,3 +58,7 @@ for (let i in values) {
   }
 }
 ```
+
+## Source
+[Part 1](./code/day1-1.js)
+[Part 2](./code/day1-2.js)
