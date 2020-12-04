@@ -7,3 +7,4 @@ The goal of Advent of Code is to provide small programming exercises that can be
 ## [Day 1 - Report Repair (Javascript)](./day1.md)
 ## [Day 2 - Password Philosophy (Perl)](./day2.md)
 ## [Day 3 - Toboggan Trajectory (Fortran)](./day3.md)
+## [Day 4 - Passport Processing (Go)](./day4.md)
