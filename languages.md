@@ -4,7 +4,7 @@ Languages:
 [ ] Python
 [ ] Bash
 [ ] Powershell
-[ ] Julia
+[x] Julia
 [ ] C
 [ ] WScript
 [ ] x86 assembly
@@ -27,3 +27,5 @@ Languages:
 [x] Fortran
 [ ] TurboPascal
 [ ] Ada
+[ ] Smalltalk
+[ ] ML

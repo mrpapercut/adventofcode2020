@@ -1,4 +1,4 @@
-# Advent of Code 2020 Day x: 
+# Advent of Code 2020 Day x:
 ## Description
 ### Part 1
 
