@@ -9,3 +9,4 @@ The goal of Advent of Code is to provide small programming exercises that can be
 ## [Day 3 - Toboggan Trajectory (Fortran)](./day3.md)
 ## [Day 4 - Passport Processing (Go)](./day4.md)
 ## [Day 5 - Binary Boarding (Julia)](./day5.md)
+## [Day 6 - Custom Customs (WScript)](./day6.md)

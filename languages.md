@@ -6,7 +6,7 @@ Languages:
 [ ] Powershell
 [x] Julia
 [ ] C
-[ ] WScript
+[x] WScript
 [ ] x86 assembly
 [ ] Java
 [ ] dotNet
@@ -16,7 +16,6 @@ Languages:
 [ ] Objective C
 [x] Go
 [ ] Lua
-[ ] MATLAB
 [ ] Kotlin
 [ ] Scala
 [ ] Haskell
