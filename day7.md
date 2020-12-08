@@ -176,27 +176,6 @@ class HandyHaversacks {
         return $bags;
     }
 
-    public function getParentsByChild($childstyle, $parents = []) {
-        // Get direct parents
-        foreach ($this->parsedInput as $bag) {
-            $parentBags = array_filter($bag['children'], function ($childbag) use ($childstyle) {
-                return $childbag['style'] === $childstyle;
-            });
-
-            if (count($parentBags) > 0) {
-                array_push($parents, $bag['style']);
-            }
-        }
-
-        if (count($parents) > 0) {
-            foreach ($parents as $parentStyle) {
-                $parents = array_unique(array_merge($parents, $this->getParentsByChild($parentStyle)));
-            }
-        }
-
-        return $parents;      
-    }
-
     public function countChildren($bagstyle, $count = 0) {
         foreach ($this->parsedInput as $bag) {
             if ($bag['style'] === $bagstyle) {
