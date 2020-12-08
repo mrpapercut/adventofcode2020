@@ -1,6 +1,6 @@
 Languages:
 [x] Javascript
-[ ] PHP
+[x] PHP
 [ ] Python
 [ ] Bash
 [ ] Powershell
