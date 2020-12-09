@@ -28,3 +28,9 @@ Languages:
 [ ] Ada
 [ ] Smalltalk
 [ ] ML
+[ ] IO
+
+```js
+a = ["Python","Bash","Powershell","C","x86 assembly","Java","dotNet","Visual Basic","C#","R","Objective C","Lua","Kotlin","Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk","ML","IO"];
+a[Math.floor(Math.random() * a.length)];
+```
