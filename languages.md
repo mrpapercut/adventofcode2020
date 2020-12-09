@@ -1,14 +1,13 @@
 Languages:
 - [x] Javascript
 - [x] PHP
-- [ ] Python
+- [x] Python
 - [ ] Bash
 - [ ] Powershell
 - [x] Julia
 - [ ] C
 - [x] WScript
 - [ ] x86 assembly
-- [ ] Java
 - [ ] dotNet
 - [ ] Visual Basic
 - [ ] C#
@@ -31,6 +30,6 @@ Languages:
 - [ ] IO
 
 ```js
-a = ["Python","Bash","Powershell","C","x86 assembly","Java","dotNet","Visual Basic","C#","R","Objective C","Lua","Kotlin","Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk","ML","IO"];
+a = ["Bash","Powershell","C","x86 assembly","dotNet","Visual Basic","C#","R","Objective C","Lua","Kotlin","Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk","ML","IO"];
 a[Math.floor(Math.random() * a.length)];
 ```

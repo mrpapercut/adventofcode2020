@@ -11,3 +11,4 @@ The goal of Advent of Code is to provide small programming exercises that can be
 ## [Day 5 - Binary Boarding (Julia)](./day5.md)
 ## [Day 6 - Custom Customs (WScript)](./day6.md)
 ## [Day 7 - Handy Haversacks (PHP)](./day7.md)
+## [Day 8 - Handheld Halting (Python)](./day8.md)
