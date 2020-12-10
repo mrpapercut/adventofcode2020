@@ -26,10 +26,9 @@ Languages:
 - [ ] TurboPascal
 - [ ] Ada
 - [ ] Smalltalk
-- [ ] ML
-- [ ] IO
+- [x] IO
 
 ```js
-a = ["Bash","Powershell","C","x86 assembly","dotNet","Visual Basic","C#","R","Objective C","Lua","Kotlin","Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk","ML","IO"];
+a = ["Bash","Powershell","C","x86 assembly","dotNet","Visual Basic","C#","R","Objective C","Lua","Kotlin","Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk"];
 a[Math.floor(Math.random() * a.length)];
 ```
