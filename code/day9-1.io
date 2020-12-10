@@ -10,41 +10,41 @@ EncodingError := Object clone do(
     )
 
     readfile := method(
-        fh := File with(self inputfile)
+        fh := File with(inputfile)
         fh openForReading
 
-        self filecontents = fh readLines
+        filecontents = fh readLines
         fh close
     )
 
     initloop := method(
-        self window := self filecontents slice(0, self windowsize)
+        window = filecontents slice(0, windowsize)
 
-        self pointer = 0
-        self nextvalue := self windowsize
+        pointer = 0
+        nextvalue = windowsize
     )
 
     updatewindow := method(
-        self pointer := self pointer + 1
-        self nextvalue := self nextvalue + 1
-        self window := self filecontents slice(self pointer, self pointer + self windowsize)
+        pointer = pointer + 1
+        nextvalue = nextvalue + 1
+        window = filecontents slice(pointer, pointer + windowsize)
     )
 
     checkwindow := method(
-        self window foreach(i, value,
-            self window foreach(j, comparingvalue,
+        window foreach(i, value,
+            window foreach(j, comparingvalue,
                 // Don't compare the same values
                 if (i == j, continue)
 
                 // If sum of 2 values equals the next value behind window, the next value is fine
-                if (value asNumber + comparingvalue asNumber == self filecontents at(self nextvalue) asNumber,
+                if (value asNumber + comparingvalue asNumber == filecontents at(nextvalue) asNumber,
                     return true
                 )
             )
         )
 
         // If no possible combination was found, print next value
-        self filecontents at(self nextvalue) println
+        filecontents at(nextvalue) println
 
         return false
     )
