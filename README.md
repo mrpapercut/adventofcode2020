@@ -4,12 +4,12 @@ This repo is a collection of my solutions to [Advent of Code 2020](https://adven
 
 The goal of Advent of Code is to provide small programming exercises that can be solved with any programming language. For extra challenge, I will attempt to solve the challenges with a different programming language for each one.
 
-## [Day 1 - Report Repair (Javascript)](./day1.md)
-## [Day 2 - Password Philosophy (Perl)](./day2.md)
-## [Day 3 - Toboggan Trajectory (Fortran)](./day3.md)
-## [Day 4 - Passport Processing (Go)](./day4.md)
-## [Day 5 - Binary Boarding (Julia)](./day5.md)
-## [Day 6 - Custom Customs (WScript)](./day6.md)
-## [Day 7 - Handy Haversacks (PHP)](./day7.md)
-## [Day 8 - Handheld Halting (Python)](./day8.md)
-## [Day 9 - Encoding Error (Io)](./day9.md)
+## [Day 1 - Report Repair (Javascript)](./day01/day1.md)
+## [Day 2 - Password Philosophy (Perl)](./day02/day2.md)
+## [Day 3 - Toboggan Trajectory (Fortran)](./day03/day3.md)
+## [Day 4 - Passport Processing (Go)](./day04/day4.md)
+## [Day 5 - Binary Boarding (Julia)](./day05/day5.md)
+## [Day 6 - Custom Customs (WScript)](./day06/day6.md)
+## [Day 7 - Handy Haversacks (PHP)](./day07/day7.md)
+## [Day 8 - Handheld Halting (Python)](./day08/day8.md)
+## [Day 9 - Encoding Error (Io)](./day09/day9.md)
