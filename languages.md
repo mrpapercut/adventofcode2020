@@ -14,7 +14,7 @@ Languages:
 - [ ] R
 - [ ] Objective C
 - [x] Go
-- [ ] Lua
+- [x] Lua
 - [ ] Kotlin
 - [ ] Scala
 - [ ] Haskell
@@ -27,8 +27,9 @@ Languages:
 - [ ] Ada
 - [ ] Smalltalk
 - [x] IO
+- [ ] Erlang
 
 ```js
-a = ["Bash","Powershell","C","x86 assembly","dotNet","Visual Basic","C#","R","Objective C","Lua","Kotlin","Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk"];
+a = ["Bash","Powershell","C","x86 assembly","dotNet","Visual Basic","C#","R","Objective C","Kotlin","Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk","Erlang"];
 a[Math.floor(Math.random() * a.length)];
 ```

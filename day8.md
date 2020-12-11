@@ -220,8 +220,8 @@ handheldhalting.run()
 ```
 
 ## Source
-[Part 1](./day8-1.py)
-[Part 2](./day8-2.py)
+[Part 1](./day08/day8-1.py)
+[Part 2](./day08/day8-2.py)
 
 ## Usage
 ```bash

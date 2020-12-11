@@ -163,8 +163,8 @@ end program tobogganTrajectory
 ```
 
 ## Source
-[Part 1](./day3-1.f90)
-[Part 2](./day3-2.f90)
+[Part 1](./day03/day3-1.f90)
+[Part 2](./day03/day3-2.f90)
 
 ## Usage
 ```bash

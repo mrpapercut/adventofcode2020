@@ -89,8 +89,8 @@ ReportRepair();
 ```
 
 ## Source
-[Part 1](./day1-1.js)
-[Part 2](./day1-2.js)
+[Part 1](./day01/day1-1.js)
+[Part 2](./day01/day1-2.js)
 
 ## Usage
 ```bash

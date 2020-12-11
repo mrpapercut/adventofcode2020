@@ -175,8 +175,8 @@ end
 ```
 
 ## Source
-[Part 1](./day5-1.jl)
-[Part 2](./day5-2.jl)
+[Part 1](./day05/day5-1.jl)
+[Part 2](./day05/day5-2.jl)
 
 ## Usage
 ```bash

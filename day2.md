@@ -94,8 +94,8 @@ print $validcount;
 ```
 
 ## Source
-[Part 1](./day2-1.pl)
-[Part 2](./day2-2.pl)
+[Part 1](./day02/day2-1.pl)
+[Part 2](./day02/day2-2.pl)
 
 ## Usage
 ```bash

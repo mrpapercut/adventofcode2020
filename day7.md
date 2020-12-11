@@ -198,8 +198,8 @@ echo $numbags;
 ```
 
 ## Source
-[Part 1](./day7-1.php)
-[Part 2](./day7-2.php)
+[Part 1](./day07/day7-1.php)
+[Part 2](./day07/day7-2.php)
 
 ## Usage
 ```bash

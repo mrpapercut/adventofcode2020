@@ -321,8 +321,8 @@ func main() {
 ```
 
 ## Source
-[Part 1](./day4-1.go)
-[Part 2](./day4-2.go)
+[Part 1](./day04/day4-1.go)
+[Part 2](./day04/day4-2.go)
 
 ## Usage
 ```bash

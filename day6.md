@@ -237,8 +237,8 @@ WScript.Echo(CustomCustoms());
 ```
 
 ## Source
-[Part 1](./day6-1.js)
-[Part 2](./day6-2.js)
+[Part 1](./day06/day6-1.js)
+[Part 2](./day06/day6-2.js)
 
 ## Usage
 ```bash

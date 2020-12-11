@@ -222,8 +222,8 @@ while(encodingError checkwindow not,
 ```
 
 ## Source
-[Part 1](./day9-1.io)
-[Part 2](./day9-2.io)
+[Part 1](./day09/day9-1.io)
+[Part 2](./day09/day9-2.io)
 
 ## Usage
 ```bash
