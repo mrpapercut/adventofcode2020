@@ -15,4 +15,4 @@ Each code sample should be run from this directory (./). How to run the code is 
 ## [Day 7 - Handy Haversacks (PHP)](./day07/day7.md)
 ## [Day 8 - Handheld Halting (Python)](./day08/day8.md)
 ## [Day 9 - Encoding Error (Io)](./day09/day9.md)
-## [Day 10 - Adapter Array (C)](./day10/day10.md)
+## [Day 10 - Adapter Array (Lua)](./day10/day10.md)
