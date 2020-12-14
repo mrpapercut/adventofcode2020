@@ -15,7 +15,7 @@ Languages:
 - [ ] Objective C
 - [x] Go
 - [x] Lua
-- [ ] Kotlin
+- [x] Kotlin
 - [ ] Scala
 - [ ] Haskell
 - [x] Perl
@@ -27,7 +27,6 @@ Languages:
 - [ ] Ada
 - [ ] Smalltalk
 - [x] IO
-- [ ] Erlang
 
 ```js
 a = ["Bash","Powershell","C","x86 assembly","dotNet","Visual Basic","C#","R","Objective C","Kotlin","Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk","Erlang"];
