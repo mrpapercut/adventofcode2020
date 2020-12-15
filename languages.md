@@ -9,7 +9,7 @@ Languages:
 - [x] WScript
 - [ ] x86 assembly
 - [ ] dotNet
-- [ ] Visual Basic
+- [x] Visual Basic
 - [ ] C#
 - [ ] R
 - [ ] Objective C
@@ -29,6 +29,6 @@ Languages:
 - [x] IO
 
 ```js
-a = ["Bash","Powershell","C","x86 assembly","dotNet","Visual Basic","C#","R","Objective C","Kotlin","Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk","Erlang"];
+a = ["Bash","Powershell","C","x86 assembly","dotNet","C#","R","Objective C",,"Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk","Erlang"];
 a[Math.floor(Math.random() * a.length)];
 ```
