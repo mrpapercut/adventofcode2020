@@ -17,3 +17,4 @@ Each code sample should be run from this directory (./). How to run the code is 
 ## [Day 9 - Encoding Error (Io)](./day9.md)
 ## [Day 10 - Adapter Array (Lua)](./day10.md)
 ## [Day 11 - Seating System (Kotlin)](./day11.md)
+## [Day 12 - Rain Risk (Visual Basic)](./day12.md)
