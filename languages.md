@@ -3,7 +3,7 @@ Languages:
 - [x] PHP
 - [x] Python
 - [ ] Bash
-- [ ] Powershell
+- [x] Powershell
 - [x] Julia
 - [ ] C
 - [x] WScript
@@ -29,6 +29,6 @@ Languages:
 - [x] IO
 
 ```js
-a = ["Bash","Powershell","C","x86 assembly","dotNet","C#","R","Objective C",,"Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk","Erlang"];
+a = ["Bash","C","x86 assembly","dotNet","C#","R","Objective C",,"Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk","Erlang"];
 a[Math.floor(Math.random() * a.length)];
 ```
