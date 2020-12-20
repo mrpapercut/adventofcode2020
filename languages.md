@@ -18,7 +18,7 @@ Languages:
 - [ ] Scala
 - [ ] Haskell
 - [x] Perl
-- [ ] Rust
+- [x] Rust
 - [ ] Ruby
 - [ ] COBOL
 - [x] Fortran
@@ -28,6 +28,6 @@ Languages:
 - [x] IO
 
 ```js
-a = ["Bash","C","dotNet","C#","Objective C","Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk"];
+a = ["Bash","C","dotNet","C#","Objective C","Scala","Haskell","Ruby","COBOL","TurboPascal","Ada","Smalltalk"];
 a[Math.floor(Math.random() * a.length)];
 ```
