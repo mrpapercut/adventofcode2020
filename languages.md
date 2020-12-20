@@ -7,11 +7,10 @@ Languages:
 - [x] Julia
 - [ ] C
 - [x] WScript
-- [ ] x86 assembly
 - [ ] dotNet
 - [x] Visual Basic
 - [ ] C#
-- [ ] R
+- [x] R
 - [ ] Objective C
 - [x] Go
 - [x] Lua
@@ -29,6 +28,6 @@ Languages:
 - [x] IO
 
 ```js
-a = ["Bash","C","x86 assembly","dotNet","C#","R","Objective C",,"Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk","Erlang"];
+a = ["Bash","C","dotNet","C#","Objective C","Scala","Haskell","Rust","Ruby","COBOL","TurboPascal","Ada","Smalltalk"];
 a[Math.floor(Math.random() * a.length)];
 ```
