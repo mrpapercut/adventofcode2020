@@ -19,3 +19,4 @@ Each code sample should be run from this directory (./). How to run the code is 
 ## [Day 11 - Seating System (Kotlin)](./day11.md)
 ## [Day 12 - Rain Risk (Visual Basic)](./day12.md)
 ## [Day 13 - Shuttle Search (Powershell)](./day13.md)
+## [Day 14 - Docking Data (R)](./day14.md)
