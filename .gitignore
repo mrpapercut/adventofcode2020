@@ -1,3 +1,5 @@
 day**/*-test.txt
 day**/*-test*.txt
 built/
+
+!.gitkeep
