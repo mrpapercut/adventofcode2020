@@ -22,12 +22,12 @@ Languages:
 - [ ] Ruby
 - [ ] COBOL
 - [x] Fortran
-- [ ] TurboPascal
+- [x] Pascal
 - [ ] Ada
 - [ ] Smalltalk
 - [x] IO
 
 ```js
-a = ["Bash","C","dotNet","C#","Objective C","Scala","Haskell","Ruby","COBOL","TurboPascal","Ada","Smalltalk"];
+a = ["Bash","C","dotNet","C#","Objective C","Scala","Haskell","Ruby","COBOL","Ada","Smalltalk"];
 a[Math.floor(Math.random() * a.length)];
 ```
