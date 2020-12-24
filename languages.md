@@ -26,6 +26,7 @@ Languages:
 - [ ] Ada
 - [ ] Smalltalk
 - [x] IO
+- [x] D
 
 ```js
 a = ["Bash","C","dotNet","C#","Objective C","Scala","Haskell","Ruby","COBOL","Ada","Smalltalk"];
