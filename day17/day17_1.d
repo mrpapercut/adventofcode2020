@@ -1,3 +1,5 @@
+module day17.day17_1;
+
 import std.array;
 import std.conv;
 import std.file;
