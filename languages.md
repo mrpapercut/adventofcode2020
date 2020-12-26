@@ -19,7 +19,7 @@ Languages:
 - [ ] Haskell
 - [x] Perl
 - [x] Rust
-- [ ] Ruby
+- [x] Ruby
 - [ ] COBOL
 - [x] Fortran
 - [x] Pascal
@@ -27,8 +27,10 @@ Languages:
 - [ ] Smalltalk
 - [x] IO
 - [x] D
+- [ ] Prolog
+- [ ] Euphoria
 
 ```js
-a = ["Bash","C","dotNet","C#","Objective C","Scala","Haskell","Ruby","COBOL","Ada","Smalltalk"];
+a = ["Bash","C","dotNet","C#","Objective C","Scala","Haskell","COBOL","Ada","Smalltalk","Prolog","Euphoria"];
 a[Math.floor(Math.random() * a.length)];
 ```
