@@ -28,9 +28,9 @@ Languages:
 - [x] IO
 - [x] D
 - [ ] Prolog
-- [ ] Euphoria
+- [x] Euphoria
 
 ```js
-a = ["Bash","C","dotNet","C#","Objective C","Scala","Haskell","COBOL","Ada","Smalltalk","Prolog","Euphoria"];
+a = ["Bash","C","dotNet","C#","Objective C","Scala","Haskell","COBOL","Ada","Smalltalk","Prolog"];
 a[Math.floor(Math.random() * a.length)];
 ```
