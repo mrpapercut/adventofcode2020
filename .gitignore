@@ -1,5 +1,6 @@
 day**/*-test.txt
 day**/*-test*.txt
 built/
+day19/runeu.ps1
 
 !.gitkeep
