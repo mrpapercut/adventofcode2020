@@ -24,3 +24,4 @@ Each code sample should be run from this directory (./). How to run the code is 
 ## [Day 16 - Ticket Translation (Pascal)](./day16.md)
 ## [Day 17 - Conway Cubes (D)](./day17.md)
 ## [Day 18 - Operation Order (Ruby)](./day18.md)
+## [Day 18 - Monster Messages (Euphoria)](./day19.md)
