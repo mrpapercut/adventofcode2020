@@ -6,28 +6,6 @@ include std/regex.e as re
 include std/text.e
 include std/wildcard.e
 
-procedure testregex()
-    sequence reparts = {}
-    sequence rp1 = "([A-Za-z]+)"
-    sequence rp2 = "([0-9]+)"
-
-    reparts = append(reparts, rp1)
-    reparts = append(reparts, rp2)
-
-    sequence reparts2 = join(reparts)
-
-    regex r = re:new(reparts2)
-
-    sequence strtomatch = "John 2355"
-
-    object res = re:find(r, strtomatch)
-    for i = 1 to length(res) do
-        display(strtomatch[res[i][1]..res[i][2]])
-    end for
-
-    display("abc" & "def")
-end procedure
-
 function readFile(sequence filename)
     sequence contents = {}
 
