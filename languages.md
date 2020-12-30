@@ -1,36 +1,38 @@
 Languages:
 - [x] Javascript
+- [x] Perl
+- [x] Fortran
+- [x] Go
+- [x] Julia
+- [x] WScript
 - [x] PHP
 - [x] Python
-- [ ] Bash
-- [x] Powershell
-- [x] Julia
-- [ ] C
-- [x] WScript
-- [ ] dotNet
-- [x] Visual Basic
-- [ ] C#
-- [x] R
-- [ ] Objective C
-- [x] Go
+- [x] IO
 - [x] Lua
 - [x] Kotlin
-- [ ] Scala
-- [ ] Haskell
-- [x] Perl
+- [x] Visual Basic
+- [x] Powershell
+- [x] R
 - [x] Rust
-- [x] Ruby
-- [ ] COBOL
-- [x] Fortran
 - [x] Pascal
+- [x] D
+- [x] Ruby
+- [x] Euphoria
+- [x] C#
+- [ ] Bash
+- [ ] C
+- [ ] dotNet
+- [ ] Objective C
+- [ ] COBOL
 - [ ] Ada
 - [ ] Smalltalk
-- [x] IO
-- [x] D
 - [ ] Prolog
-- [x] Euphoria
+- [ ] Swift
+- [ ] Clojure
+- [ ] Raku
+- [ ] CommonLisp
 
 ```js
-a = ["Bash","C","dotNet","C#","Objective C","Scala","Haskell","COBOL","Ada","Smalltalk","Prolog"];
+a = ["Bash","C","dotNet","C#","Objective C","COBOL","Ada","Smalltalk","Prolog","Swift","Clojure","Raku","CommonLisp"];
 a[Math.floor(Math.random() * a.length)];
 ```
